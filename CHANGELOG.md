@@ -1,5 +1,19 @@
 # Changelog
 
+## v4.4.5 - 2026-10-28
+
+### What's Changed
+
+* Improve error handling for cache deletion by @erikn69 in https://github.com/fruitcake/laravel-debugbar/pull/2092
+* Fix wildcard branch pattern in livewire-tests.yml by @erikn69 in https://github.com/fruitcake/laravel-debugbar/pull/2095
+* Bump postcss-selector-parser from 7.1.4 to 7.1.6 by @dependabot[bot] in https://github.com/fruitcake/laravel-debugbar/pull/2096
+* Remove laravel/ai from dev dependencies on livewire, bump actions by @erikn69 in https://github.com/fruitcake/laravel-debugbar/pull/2099
+* Bump brace-expansion from 5.0.8 to 5.0.12 by @dependabot[bot] in https://github.com/fruitcake/laravel-debugbar/pull/2097
+* Bump source-map-js from 1.2.1 to 1.2.2 by @dependabot[bot] in https://github.com/fruitcake/laravel-debugbar/pull/2098
+* Fix livewire3 components by @barryvdh in https://github.com/fruitcake/laravel-debugbar/pull/2102
+
+**Full Changelog**: https://github.com/fruitcake/laravel-debugbar/compare/v4.4.4...v4.4.5
+
 ## v4.4.4 - 2026-09-24
 
 ### What's Changed
